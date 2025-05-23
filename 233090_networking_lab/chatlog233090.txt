@@ -1,0 +1,11 @@
+hello:233090
+Server says: Succesfully logged on to server!
+Server says:  welcome 233090
+233090:hello
+233090 says: hello
+233187:zdr ivance
+233187: soy bojana!
+233187 says: heyy
+233187: como se llama?
+
+233187 says: donde esta la biblioteca?
